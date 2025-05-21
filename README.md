@@ -1,7 +1,7 @@
 # Pós - Programacao JavaScript
 
-🎓
-# Sobre o Curso
+
+# Sobre o Curso 🎓
 Este projeto faz parte da jornada na Pós-Graduação em Automação de Testes de Software (PGATS), coordenada por Júlio de Lima. A disciplina de Programação para Automação de Testes é ministrada exclusivamente por Samuel Lucas.
 
 A PGATS é uma formação 100% EAD que capacita profissionais para atuar em automação de testes em diversas camadas, incluindo Web, API, Mobile e Desktop. O curso aborda desde fundamentos de lógica e algoritmos até práticas avançadas de integração contínua e testes de performance.
