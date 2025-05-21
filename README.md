@@ -8,7 +8,7 @@ A PGATS é uma formação 100% EAD que capacita profissionais para atuar em auto
 
 Para mais informações, acesse o site oficial: pgats.juliodelima.com.br
 
-📁 # Estrutura do Projeto
+# Estrutura do Projeto 📁
 Arquivos com explicações, exemplos e exercícios dos principais conceitos de JavaScript:
 
 * condicionais-if-else.js: Estruturas condicionais com if, else if e else.
@@ -21,17 +21,17 @@ Arquivos com explicações, exemplos e exercícios dos principais conceitos de J
 * operadores-comparacao.js: Operadores de comparação como ==, ===, !=, etc.
 * operadores-logicos.js: Operadores lógicos como &&, ||, !.
 
-🚀 # Tecnologias Utilizadas
+# Tecnologias Utilizadas 🚀
 * JavaScript
 * Node.js (sugerido para executar os scripts no terminal)
 * Mocha (framework de teste)
 
-📝 # Requisitos
+# Requisitos 📝
 * Ter o Node.js instalado
 * Ter o Mocha framework instalado
 * Um editor de código como VS Code
 
-▶️ # Como executar
+# Como executar ▶️
 Clone o repositório e execute os arquivos desejados via terminal:
 * node conceitos/condicionais-if-else.js
 * npx mocha testes/01-testes.js
