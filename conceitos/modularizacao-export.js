@@ -8,14 +8,6 @@
     export {} / import 
 
  */
-// const nomePet = `Pitoco`
-// console.log(`O nome do pet é ${nomePet}`)
-
-// const nomePet2 = `Pipoca`
-// console.log(`O nome do pet é ${nomePet2}`)
-
-// const nomePet3 = `Pantera`
-// console.log(`O nome do pet é ${nomePet3}`)
 
 const BRINQUEDOS = [
     'Osso',

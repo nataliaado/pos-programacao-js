@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nataliaado/pos-programacao-js/issues"
   },
-  "homepage": "https://github.com/nataliaado/pos-programacao-js#readme"
+  "homepage": "https://github.com/nataliaado/pos-programacao-js#readme",
+  "devDependencies": {
+    "mocha": "^11.3.0"
+  }
 }
