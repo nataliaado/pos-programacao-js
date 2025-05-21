@@ -10,8 +10,8 @@
 
  */
 
-  import { CATS, DOGS } from './10-exercicio-dados.js'
-  import { entregarPetiscos } from './10-exercicio-funcao.js'
+  import { CATS, DOGS } from './caes-dados.js'
+  import { entregarPetiscos } from './distribuidor-de-petiscos-funcao.js'
   
   entregarPetiscos(DOGS)
   entregarPetiscos(CATS)

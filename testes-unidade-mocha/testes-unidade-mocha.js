@@ -25,11 +25,11 @@
           // verifique se: <valor atual> É IGUAL A <valor esperado>
         })
       
-        it('primeiro teste', () => {
+        it('segundo teste', () => {
       
         })
       
-        it('segundo teste', () => {
+        it('terceiro teste', () => {
           throw new Error()
         })
       

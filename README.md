@@ -34,4 +34,4 @@ Arquivos com explicações, exemplos e exercícios dos principais conceitos de J
 # Como executar ▶️
 Clone o repositório e execute os arquivos desejados via terminal:
 * node conceitos/condicionais-if-else.js
-* npx mocha testes/01-testes.js
+* npx mocha testes-unidade-mocha/testes-unidade-mocha.js
