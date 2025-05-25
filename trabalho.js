@@ -8,7 +8,16 @@ function verificarSePodeSerAdotado(idade, porte) {
 }
 
 function calcularConsumoDeRacao(nome, idade, peso) {
-  const gramasPorKg = 300;
+  let gramasPorKg;
+
+  if (idade < 1) {
+    gramasPorKg = 400;
+  } else if (idade < 7) {
+    gramasPorKg = 300;
+  } else {
+    gramasPorKg = 250;
+  }
+
   const consumoDiario = peso * gramasPorKg;
   return consumoDiario;
 }
@@ -26,9 +35,16 @@ function decidirTipoDeAtividadePorPorte(porte) {
   }
 }
 
+const nomes = ["Pipoca", "Bolo", "Refrigerante", "Sorvete"];
+
+async function buscarDadoAsync(indice = 0) {
+  return nomes[indice];
+}
+
 export {
   geradorDeTagsDeIdentificacao,
   verificarSePodeSerAdotado,
   calcularConsumoDeRacao,
   decidirTipoDeAtividadePorPorte,
+  buscarDadoAsync,
 };
