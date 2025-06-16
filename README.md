@@ -35,3 +35,7 @@ Arquivos com explicações, exemplos e exercícios dos principais conceitos de J
 Clone o repositório e execute os arquivos desejados via terminal:
 * node conceitos/condicionais-if-else.js
 * npx mocha testes-unidade-mocha/testes-unidade-mocha.js
+* npx mocha trabalho-final/trabalho-final.js
+
+# Como executar Pipeline ▶️
+* Executar a pipeline n1 no Github Actions

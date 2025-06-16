@@ -1,0 +1,23 @@
+name: 'Execução n1 Testes de Unidade JavaScript'
+
+on:
+  workflow_dispatch:
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Clonando o projeto
+        uses: actions/checkout@v4
+
+      - name: 🟢 Instalando Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+
+      - name: 📁 Instalando dependências
+        run: npm install
+
+      - name: 🧪 Executando testes com Mocha
+        run: npx mocha trabalho-final/trabalho-final.js
