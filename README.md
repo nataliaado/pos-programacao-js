@@ -25,6 +25,7 @@ Arquivos com explicações, exemplos e exercícios dos principais conceitos de J
 * JavaScript
 * Node.js (sugerido para executar os scripts no terminal)
 * Mocha (framework de teste)
+* Configuração de Pipeline n1 - Github Actions
 
 # Requisitos 📝
 * Ter o Node.js instalado
