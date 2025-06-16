@@ -1,5 +1,5 @@
 # .github/workflows/teste.yml
-name: Teste Simples
+name: Teste Olá Mundo!
 
 on:
   workflow_dispatch:

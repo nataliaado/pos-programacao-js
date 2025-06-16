@@ -1,4 +1,4 @@
-name: 'Execução n1 Testes de Unidade JavaScript'
+name: 'Execução n1 Testes de Unidade'
 
 on:
   workflow_dispatch:
